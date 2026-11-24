@@ -12,5 +12,12 @@
     "versionName": "2.2",
     "url": "https://github.com/Jualoz/mis-apps/releases/download/deslizafotos-v4/DeslizaFotos.apk",
     "notes": "Primera versión que se actualiza sola: toca Buscar actualización o simplemente abre la app."
+  },
+  "com.deslizacontactos.app": {
+    "app": "Desliza Contactos",
+    "versionCode": 3,
+    "versionName": "1.2",
+    "url": "https://github.com/Jualoz/mis-apps/releases/download/deslizacontactos-v3/DeslizaContactos.apk",
+    "notes": "Primera versión que se actualiza sola: toca Buscar actualización o simplemente abre la app."
   }
 }
