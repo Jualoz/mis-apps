@@ -26,5 +26,12 @@
     "versionName": "3.0",
     "url": "https://github.com/Jualoz/mis-apps/releases/download/craterlimpio-v3/CraterLimpio.apk",
     "notes": "Versión 3.0: el cráter se divide en 64 sectores con premio, rangos, órdenes, turbo, piloto automático a la base, nuevas mejoras de equipo y base, sombras, rocas y bordes suaves."
+  },
+  "com.garabatos.app": {
+    "app": "Garabatos",
+    "versionCode": 1,
+    "versionName": "1.0",
+    "url": "https://github.com/Jualoz/mis-apps/releases/download/garabatos-v1/Garabatos.apk",
+    "notes": "Primera versión: pizarra compartida y garabatos sobre la pantalla del otro."
   }
 }
