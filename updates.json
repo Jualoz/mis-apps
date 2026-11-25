@@ -22,9 +22,9 @@
   },
   "com.craterlimpio.app": {
     "app": "Cráter Limpio",
-    "versionCode": 1,
-    "versionName": "1.0",
-    "url": "https://github.com/Jualoz/mis-apps/releases/download/craterlimpio-v1/CraterLimpio.apk",
-    "notes": "Primera versión de Cráter Limpio: barre el cráter, vende el polvo y mejora tu equipo."
+    "versionCode": 2,
+    "versionName": "2.0",
+    "url": "https://github.com/Jualoz/mis-apps/releases/download/craterlimpio-v2/CraterLimpio.apk",
+    "notes": "Versión 2.0: ahora en 3D y en primera persona, horizontal, con terreno lunar real, mapa del cráter y mejoras de la base (paneles, refinería, hangar, radar y taller)."
   }
 }
