@@ -19,5 +19,12 @@
     "versionName": "1.2",
     "url": "https://github.com/Jualoz/mis-apps/releases/download/deslizacontactos-v3/DeslizaContactos.apk",
     "notes": "Primera versión que se actualiza sola: toca Buscar actualización o simplemente abre la app."
+  },
+  "com.craterlimpio.app": {
+    "app": "Cráter Limpio",
+    "versionCode": 1,
+    "versionName": "1.0",
+    "url": "https://github.com/Jualoz/mis-apps/releases/download/craterlimpio-v1/CraterLimpio.apk",
+    "notes": "Primera versión de Cráter Limpio: barre el cráter, vende el polvo y mejora tu equipo."
   }
 }
