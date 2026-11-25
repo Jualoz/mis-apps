@@ -29,9 +29,9 @@
   },
   "com.garabatos.app": {
     "app": "Garabatos",
-    "versionCode": 1,
-    "versionName": "1.0",
-    "url": "https://github.com/Jualoz/mis-apps/releases/download/garabatos-v1/Garabatos.apk",
-    "notes": "Primera versión: pizarra compartida y garabatos sobre la pantalla del otro."
+    "versionCode": 2,
+    "versionName": "1.1",
+    "url": "https://github.com/Jualoz/mis-apps/releases/download/garabatos-v2/Garabatos.apk",
+    "notes": "Versión 1.1: escribe textos con 3 tipos de letra, pega stickers, lápiz neón y manda reacciones animadas (corazones, besos, flores...) que aparecen en la pantalla del otro."
   }
 }
