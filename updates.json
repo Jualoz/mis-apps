@@ -22,10 +22,10 @@
   },
   "com.craterlimpio.app": {
     "app": "Cráter Limpio",
-    "versionCode": 6,
-    "versionName": "4.0.1",
-    "url": "https://github.com/Jualoz/mis-apps/releases/download/craterlimpio-v6/CraterLimpio.apk",
-    "notes": "Versión 4.0.1: las líneas de la cuadrícula ahora coinciden con los sectores de 32 m."
+    "versionCode": 7,
+    "versionName": "4.1",
+    "url": "https://github.com/Jualoz/mis-apps/releases/download/craterlimpio-v7/CraterLimpio.apk",
+    "notes": "Versión 4.1: arranque más suave. La primera aspiradora ya no pide rango, los primeros rangos y mejoras salen más baratos y el polvo cerca de la base es más fino."
   },
   "com.garabatos.app": {
     "app": "Garabatos",
